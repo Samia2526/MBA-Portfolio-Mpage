@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "Samia Araujo\nMBA Candidate | Business Analyst\nWelcome to my professional MBA portfolio. I’m currently pursuing my MBA at University Canada West, where I focus on the application of artificial intelligence in business. This site showcases my academic journey, professional experience, projects, skills, and contact details.\nFeel free to explore the sections above to learn more about my background and expertise."
-  },
-  {
     "objectID": "skills.html",
     "href": "skills.html",
     "title": "Skills & Certifications",
@@ -70,6 +63,13 @@
     "text": "Download Resume\nDownload My Resume (PDF)"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Samia Araujo\nMBA Candidate | Business Analyst\nWelcome to my professional MBA portfolio. I’m currently pursuing my MBA at University Canada West, where I focus on the application of artificial intelligence in business. This site showcases my academic journey, professional experience, projects, skills, and contact details.\nFeel free to explore the sections above to learn more about my background and expertise."
+  },
+  {
     "objectID": "resume.html",
     "href": "resume.html",
     "title": "Resume",
@@ -96,12 +96,5 @@
     "title": "Resume",
     "section": "Download",
     "text": "Download\nDownload My Resume (PDF)"
-  },
-  {
-    "objectID": "home.html",
-    "href": "home.html",
-    "title": "Home",
-    "section": "",
-    "text": "Samia Araujo\nMBA Candidate | Business Analyst\nWelcome to my professional MBA portfolio. I’m currently pursuing my MBA at University Canada West, where I focus on the application of artificial intelligence in business. This site showcases my academic journey, professional experience, projects, skills, and contact details.\nFeel free to explore the sections above to learn more about my background and expertise."
   }
 ]
