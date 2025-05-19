@@ -1,48 +1,50 @@
 # Samia Araujo – Multi-Page MBA Portfolio
 
-This repository contains the multi-page professional portfolio website. The website is built using **Quarto** and showcases my academic journey, professional experience, technical skills, and the evolving use of Large Language Models (LLMs) to support personal branding and career development.
+This repository contains the multi-page professional portfolio website created for **Assignment 2** in the MBA course *Application of AI in Business* at University Canada West.
 
-🔗 **Live site**: [https://samia2526.github.io/MBA_Portfolio_Multipage/](https://samia2526.github.io/MBA_Portfolio_Multipage/)
+The website was developed using **Quarto** and showcases my:
+
+- Academic background
+- Professional experience
+- AI-related projects
+- Technical and business skills
+- Certifications and downloadable resume
+
+🧠 It also demonstrates the use of **Large Language Models (LLMs)** in brainstorming, content generation, formatting, and iterative improvement.
 
 ---
 
-## 📁 Pages & Structure
+## 🌐 Live Website
 
-The site includes the following sections:
+👉 [https://samia2526.github.io/MBA-Portfolio-Mpage](https://samia2526.github.io/MBA-Portfolio-Mpage)
 
-- `Home`: Welcome and introduction
-- `Resume`: Academic background, experience, and downloadable PDF
-- `Projects`: AI and project management case studies
-- `Skills & Certifications`: Core competencies and badges
-- `Contact`: Email, LinkedIn, and downloadable resources
-- `Reflection`: (Optional) Summary of how LLMs were used
+---
+
+## 🗂️ Pages & Structure
+
+- **Home** – Welcome and bio overview
+- **Resume** – Education, work history, and downloadable PDF
+- **Projects** – AWS-based analytics and project management cases
+- **Skills & Certifications** – Technical skills and verified credentials
+- **Contact** – LinkedIn, email, and external links
 
 ---
 
 ## 🧰 Built With
 
-- **Quarto** – Static site generator for data science and publishing
-- **Markdown (.qmd)** – Simple and clean content structure
-- **Custom CSS** – Personalized styling and layout
-- **GitHub Pages** – For free, public hosting
-- **LLMs (ChatGPT)** – For drafting, revising, and organizing content
-
----
-
-## 🎨 Design Notes
-
-- Inspired by a clean, modern look with a neutral background
-- Features a nature-themed background image (stone and palm leaves)
-- Accessible, mobile-friendly, and easy to navigate
+- `Quarto` – Static site generator for publishing
+- `.qmd` & `Markdown` – Modular, readable formatting
+- `HTML/CSS` – Custom design via `style_with_background.css`
+- `GitHub Pages` – Free static hosting
+- `LLMs` – Used to assist with structure, writing, and layout
 
 ---
 
 ## 📎 Assets
 
-- `samia_araujo_resume.pdf`: Downloadable resume  
-- `background.jpg`: Custom background image  
-- `style_with_background.css`: CSS with responsive design and content panel transparency  
-- `site_libs/`: Auto-generated Quarto dependencies (do not modify)
+- `background.jpg` – Neutral stone + foliage background
+- `samia_araujo_resume.pdf` – PDF resume for download
+- `site_libs/` – Auto-generated Quarto JavaScript libraries
 
 ---
 
