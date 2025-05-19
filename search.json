@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Samia Araujo\nMBA Candidate | Business Analyst\nWelcome to my professional MBA portfolio. I’m currently pursuing my MBA at University Canada West, where I focus on the application of artificial intelligence in business. This site showcases my academic journey, professional experience, projects, skills, and contact details.\nFeel free to explore the sections above to learn more about my background and expertise."
+  },
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "Strategic Thinking & Problem Solving\n\nAI Application in Business\n\nESG & Sustainable Finance\n\nProject Management (Agile, WBS, Risk)"
+  },
+  {
+    "objectID": "skills.html#core-skills",
+    "href": "skills.html#core-skills",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "Strategic Thinking & Problem Solving\n\nAI Application in Business\n\nESG & Sustainable Finance\n\nProject Management (Agile, WBS, Risk)"
+  },
+  {
+    "objectID": "skills.html#technical-skills",
+    "href": "skills.html#technical-skills",
+    "title": "Skills & Certifications",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nCloud: AWS Glue, Athena, Redshift\n\nVisualization: Excel, Tableau\n\nTools: Quarto, GitHub, Markdown"
+  },
+  {
+    "objectID": "skills.html#certifications",
+    "href": "skills.html#certifications",
+    "title": "Skills & Certifications",
+    "section": "Certifications",
+    "text": "Certifications\n\nAWS Academy Cloud Foundations\n\nCareer Essentials in Generative AI by Microsoft and LinkedIn\nEnterprise Design Thinking Practitioner - IBM\nProject Management Fundamentals"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Built an analytics platform using AWS Glue and Athena to process customer data and deliver insights. The project supported business decisions on retention strategies.\nTools: AWS Glue, Athena, S3, KMS, Cloudwatch\n\n\n\n\nLed a mock planning exercise for launching a retail store in Vancouver. Delivered WBS, schedule, and stakeholder risk map.\nTools: WBS, Gantt, Risk Matrix"
+  },
+  {
+    "objectID": "projects.html#ai-powered-customer-insights-aws",
+    "href": "projects.html#ai-powered-customer-insights-aws",
+    "title": "Projects",
+    "section": "",
+    "text": "Built an analytics platform using AWS Glue and Athena to process customer data and deliver insights. The project supported business decisions on retention strategies.\nTools: AWS Glue, Athena, S3, KMS, Cloudwatch"
+  },
+  {
+    "objectID": "projects.html#store-launch-project-project-management",
+    "href": "projects.html#store-launch-project-project-management",
+    "title": "Projects",
+    "section": "",
+    "text": "Led a mock planning exercise for launching a retail store in Vancouver. Delivered WBS, schedule, and stakeholder risk map.\nTools: WBS, Gantt, Risk Matrix"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Feel free to reach out via any of the channels below.\n📧 Email: samia.araujo@gmail.com\n🔗 LinkedIn: https://www.linkedin.com/in/limasamia/"
+  },
+  {
+    "objectID": "contact.html#download-resume",
+    "href": "contact.html#download-resume",
+    "title": "Contact",
+    "section": "Download Resume",
+    "text": "Download Resume\nDownload My Resume (PDF)"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "MBA – University Canada West\nVancouver, BC – 2024 to Present\nFocus: AI Applications, Cloud Computing, Sustainable Finance\nBachelor’s Degree – Universidade Federal de Pernambuco\nRecife, Brazil – 2006 – 2010"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "",
+    "text": "MBA – University Canada West\nVancouver, BC – 2024 to Present\nFocus: AI Applications, Cloud Computing, Sustainable Finance\nBachelor’s Degree – Universidade Federal de Pernambuco\nRecife, Brazil – 2006 – 2010"
+  },
+  {
+    "objectID": "resume.html#professional-experience",
+    "href": "resume.html#professional-experience",
+    "title": "Resume",
+    "section": "Professional Experience",
+    "text": "Professional Experience\nPolice Officer - Finance and HR Division – Public Safety, Brazil\n2013 – 2023\n- Managed budgets for 200+ personnel\n- Designed dashboards for resource allocation\n- Conducted audits and HR compliance reviews"
+  },
+  {
+    "objectID": "resume.html#download",
+    "href": "resume.html#download",
+    "title": "Resume",
+    "section": "Download",
+    "text": "Download\nDownload My Resume (PDF)"
+  },
+  {
+    "objectID": "home.html",
+    "href": "home.html",
+    "title": "Home",
+    "section": "",
+    "text": "Samia Araujo\nMBA Candidate | Business Analyst\nWelcome to my professional MBA portfolio. I’m currently pursuing my MBA at University Canada West, where I focus on the application of artificial intelligence in business. This site showcases my academic journey, professional experience, projects, skills, and contact details.\nFeel free to explore the sections above to learn more about my background and expertise."
+  }
+]
